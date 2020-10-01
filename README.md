@@ -1,4 +1,5 @@
 # LibraryManagementSystem
+this is basic project to manage the books in library.
 
 class Library:
     def __init__(self, list, name):
